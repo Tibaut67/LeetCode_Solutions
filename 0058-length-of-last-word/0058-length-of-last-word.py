@@ -5,8 +5,8 @@ class Solution(object):
         :rtype: int
         """
         count = 0
-        balls = s.strip()
-        for i in reversed(balls):
+        x = s.strip()
+        for i in reversed(x):
             if i != " ":
                 count += 1
             else: 
