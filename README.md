@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0258-add-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
