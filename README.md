@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
