@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1920-build-array-from-permutation](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [2942-find-words-containing-character](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
