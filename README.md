@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0258-add-digits) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2469-convert-the-temperature](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/2469-convert-the-temperature) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/3945-digit-frequency-score) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
