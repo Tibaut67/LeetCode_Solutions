@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1920-build-array-from-permutation](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/1920-build-array-from-permutation) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2469-convert-the-temperature](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/2469-convert-the-temperature) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Queue
 |  |
@@ -122,4 +127,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
