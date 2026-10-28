@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0035-search-insert-position) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0268-missing-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Tibaut67/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
